@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+venv/
+.env
+
+# App temp
+saved_portfolios/
+temp_chart.png
+
+# Jupyter or IDE
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Excel exports
+*.xlsx
+*.xls
